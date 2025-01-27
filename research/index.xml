@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research | Maximilian Linek</title>
-    <link>https://maxlinek.github.io/research/</link>
-      <atom:link href="https://maxlinek.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/research/</link>
+      <atom:link href="http://localhost:4321/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://maxlinek.github.io/media/icon_hu17307112998964395948.png</url>
+      <url>http://localhost:4321/media/icon_hu17307112998964395948.png</url>
       <title>Research</title>
-      <link>https://maxlinek.github.io/research/</link>
+      <link>http://localhost:4321/research/</link>
     </image>
     
     <item>
       <title>Framing and Social Information Nudges at Wikipedia</title>
-      <link>https://maxlinek.github.io/research/framing/</link>
+      <link>http://localhost:4321/research/framing/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://maxlinek.github.io/research/framing/</guid>
+      <guid>http://localhost:4321/research/framing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time Use with Basic Income: Evidence from a Large-scale Survey Experiment</title>
-      <link>https://maxlinek.github.io/research/basic_income/</link>
+      <link>http://localhost:4321/research/basic_income/</link>
       <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://maxlinek.github.io/research/basic_income/</guid>
+      <guid>http://localhost:4321/research/basic_income/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Defaults in Online Charity: Evidence from Wikipedia Germany</title>
-      <link>https://maxlinek.github.io/research/defaults/</link>
+      <link>http://localhost:4321/research/defaults/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://maxlinek.github.io/research/defaults/</guid>
+      <guid>http://localhost:4321/research/defaults/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dictating Development? The Effects of Local Institutions under Upward Accountability</title>
-      <link>https://maxlinek.github.io/research/dictating_development/</link>
+      <link>http://localhost:4321/research/dictating_development/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://maxlinek.github.io/research/dictating_development/</guid>
+      <guid>http://localhost:4321/research/dictating_development/</guid>
       <description></description>
     </item>
     
