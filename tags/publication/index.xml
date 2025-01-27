@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication | Maximilian Linek</title>
-    <link>http://localhost:4321/tags/publication/</link>
-      <atom:link href="http://localhost:4321/tags/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://maxlinek.github.io/tags/publication/</link>
+      <atom:link href="https://maxlinek.github.io/tags/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu17307112998964395948.png</url>
+      <url>https://maxlinek.github.io/media/icon_hu17307112998964395948.png</url>
       <title>Publication</title>
-      <link>http://localhost:4321/tags/publication/</link>
+      <link>https://maxlinek.github.io/tags/publication/</link>
     </image>
     
     <item>
       <title>Framing and Social Information Nudges at Wikipedia</title>
-      <link>http://localhost:4321/research/framing/</link>
+      <link>https://maxlinek.github.io/research/framing/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/research/framing/</guid>
+      <guid>https://maxlinek.github.io/research/framing/</guid>
       <description></description>
     </item>
     
